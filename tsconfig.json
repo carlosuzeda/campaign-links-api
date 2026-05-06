@@ -7,6 +7,9 @@
       "ESNext.Collection",
       "ESNext.Iterator"
     ],
+    "types": [
+      "node"
+    ],
     "paths": {
       "@/*": [
         "./src/*"
